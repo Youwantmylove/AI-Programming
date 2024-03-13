@@ -1,0 +1,12 @@
+a = 2
+print(a<<0, end=" ")
+print(a<<1, end=" ")
+print(a<<2, end=" ")
+print(a<<3, end=" ")
+print(a<<3, end=" ")
+print(a<<4, end=" ")
+print(a<<5, end=" ")
+print(a<<6, end=" ")
+print(a<<7, end=" ")
+print(a<<8, end=" ")
+print(a<<9, end=" ")
